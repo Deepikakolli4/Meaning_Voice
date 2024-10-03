@@ -19,7 +19,7 @@ class Speaking:
 		engine.runAndWait()
 
 
-class GFG:
+class Meaning:
 	def Dictionary(self):
 		speak = Speaking()
 		dic = PyDictionary()
@@ -36,5 +36,5 @@ class GFG:
 
 
 if __name__ == '__main__':
-	GFG()
-	GFG.Dictionary(self=None)
+	Meaning()
+	Meaning.Dictionary(self=None)
